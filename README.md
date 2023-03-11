@@ -29,4 +29,4 @@
 2. [tg-bot-users](https://github.com/loskutovanl/tg-bot-users)  
 **Description:** Telegram bot that monitors lucky users entering chats, notifies moderators and offers automatized congratulation messages for lucky users  
 **Stack:** python, pyTelegramBotAPI, dotenv, SQLite, Docker  
-**Contests:** winner of Skillbox hackathon  
+**Contests:** winner of hackathon  
