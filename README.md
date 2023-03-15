@@ -8,15 +8,15 @@
 
 ## Golang
 
-1. [http-server](https://github.com/loskutovanl/study)  
+1. [chess client](https://github.com/sadmadrus/chessBox/tree/dev/validation)  
+**Description:** Open source chess application (WIP)  
+**My responsibility area:** chess moves validation service  
+**Stack:** golang  
+
+2. [http-server](https://github.com/loskutovanl/study)  
 **Description:** Simple http-server working with GET, PUT, DELETE, POST requests  
 **Stack:** golang, chi, PostgreSQL, godotenv, logrus, Docker  
 **Tags:** go clean template  
-
-2. [chess client](https://github.com/sadmadrus/chessBox/tree/dev/validation)  
-**Description:** Open source chess application (WIP).  
-**My responsibility area:** chess moves validation service  
-**Stack:** golang  
 
 3. [nutcracker MTC Challenge](https://github.com/loskutovanl/nutcrackerMTCChallenge)  
 **Description:** Narrative of Nutracker text fragment translated to Golang  
