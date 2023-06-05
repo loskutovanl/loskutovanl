@@ -8,7 +8,7 @@
 
 ## Golang
 
-1. [chess client](https://github.com/sadmadrus/chessBox/tree/dev/validation)  
+1. [chess client](https://github.com/sadmadrus/chessBox/)  
 **Description:** Open source chess application (WIP)  
 **My responsibility area:** chess moves validation service  
 **Stack:** golang  
